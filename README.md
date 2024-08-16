@@ -1,4 +1,4 @@
-<img src="https://hackernoon.com/images/f2px36fy.gif" alt="MasterHead" width="1000" height="300">
+<img src="https://wallpapercave.com/wp/wp2757874.gif" alt="MasterHead" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Malay Dadhaniya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
