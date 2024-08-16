@@ -1,4 +1,4 @@
-<img src="http://www.netboost.cz/wp-content/uploads/2020/04/gif-web-3.gif" alt="MasterHead" width="1000" height="500">
+<img src="https://hackernoon.com/images/f2px36fy.gif" alt="MasterHead" width="1000" height="300">
 
 <h1 align="center">Hi 👋, I'm Malay Dadhaniya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
