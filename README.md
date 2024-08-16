@@ -1,4 +1,4 @@
-<img src="https://res.cloudinary.com/dim9xwntk/image/upload/v1723825349/images/b6gjv1h7po5btx0cpg0z.jpg" alt="MasterHead" width="100%" height="500">
+<img src="https://res.cloudinary.com/dim9xwntk/image/upload/v1723825349/images/b6gjv1h7po5btx0cpg0z.jpg" alt="MasterHead" width="100%" height="100%">
 
 <h1 align="center">Hi 👋, I'm Malay Dadhaniya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
