@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **React js, Advance Java**
 
-- 👨‍💻 All of my projects are available at [https://malaydadhaniya.netlify.app/](https://malaydadhaniya.netlify.app/)
+- 👨‍💻 My Portfolio is [https://malaydadhaniya.netlify.app/](https://malaydadhaniya.netlify.app/)
 
 - 📫 How to reach me **malaydadhaniya21@gmail.com**
 
