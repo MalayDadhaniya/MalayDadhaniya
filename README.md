@@ -1,4 +1,4 @@
-<img src="https://pouch.jumpshare.com/preview/cTPFHgZoJL2n8ORvoTC9C_5SLXAvoxxpN_yDxQx1I-VQwy_WR1oC1EQo3BC_feOlk3xpsOLv-Qd5Nxcq-jlvXCz4fCTYm4ZG1_4-kPVemZE" alt="MasterHead" width="1000" height="350">
+<img src="https://www.ampron.eu/wp-content/uploads/2019/01/code-developer.gif" alt="MasterHead" width="1000" height="450">
 
 <h1 align="center">Hi 👋, I'm Malay Dadhaniya</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
